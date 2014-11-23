@@ -1,0 +1,5 @@
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohem\bin\Debug\bohem.dll
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohem\bin\Debug\bohem.pdb
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohem\obj\Debug\bohem.dll
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohem\obj\Debug\bohem.pdb
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohem\obj\Debug\bohem.csprojResolveAssemblyReference.cache

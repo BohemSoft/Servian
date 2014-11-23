@@ -1,0 +1,11 @@
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohemform\obj\Debug\bohemform.Form1.resources
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohemform\obj\Debug\bohemform.csproj.GenerateResource.Cache
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohemform\bin\Debug\bohem.dll
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohemform\bin\Debug\bohem.pdb
+C:\Users\Batuhan\documents\visual studio 2013\Projects\bohem\bohemform\obj\Debug\bohemform.csprojResolveAssemblyReference.cache
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\bin\Debug\Servian.exe.config
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\bin\Debug\Servian.exe
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\bin\Debug\Servian.pdb
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\obj\Debug\Servian.Properties.Resources.resources
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\obj\Debug\Servian.exe
+C:\Users\Batuhan\Documents\Visual Studio 2013\Projects\bohem\bohemform\obj\Debug\Servian.pdb

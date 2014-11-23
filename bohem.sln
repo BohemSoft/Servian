@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bohem", "bohem\bohem.csproj", "{C016FB5A-6C70-4513-932F-7907A11CB9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bohemform", "bohemform\bohemform.csproj", "{B192A5CB-8793-4D8B-BE37-B8BD2A74ABEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C016FB5A-6C70-4513-932F-7907A11CB9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C016FB5A-6C70-4513-932F-7907A11CB9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C016FB5A-6C70-4513-932F-7907A11CB9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C016FB5A-6C70-4513-932F-7907A11CB9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B192A5CB-8793-4D8B-BE37-B8BD2A74ABEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B192A5CB-8793-4D8B-BE37-B8BD2A74ABEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B192A5CB-8793-4D8B-BE37-B8BD2A74ABEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B192A5CB-8793-4D8B-BE37-B8BD2A74ABEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
